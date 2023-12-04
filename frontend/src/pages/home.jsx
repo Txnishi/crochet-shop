@@ -3,7 +3,7 @@ import React from 'react';
 
 function Home() {
   return (
-    <div className="bg-gray-100">
+    <div className=" bg-gray-100">
       {/* Header */}
       <nav className="bg-black p-4">
         <div className="container mx-auto">
@@ -16,8 +16,8 @@ function Home() {
       <section className="py-12 bg-blue-100">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl text-gray-800 font-semibold">Handcrafted Crochet Toys</h2>
-          <p className="mt-4 text-lg text-gray-600">Find the perfect crochet companion for you or your loved ones.</p>
-          <button className="mt-6 bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-full transition duration-300 ease-in-out">
+          <p className="mt-4 text-muted-sm text-gray-600">Find the perfect crochet companion for you or your loved ones.</p>
+          <button className="mt-6 bg-blue-500 hover:bg-black text-white font-semibold py-2 px-4 rounded-full transition duration-300 ease-in-out">
             Shop Now
           </button>
         </div>

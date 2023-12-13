@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txnishi/crochet-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Txnishi/crochet-shop/issues"
+  },
+  "homepage": "https://github.com/Txnishi/crochet-shop#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
